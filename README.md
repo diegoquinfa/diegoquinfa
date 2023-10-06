@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **diegoquinfa@gmail.com**
 
-- 🌱 Learning ReacJS, Express and Go
+- 🌱 Learning ReacJS, Express and Golang.
 
 <hr>
 
