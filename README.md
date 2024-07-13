@@ -19,7 +19,7 @@
 
 - 📝 Full stack web developer
 
-- 📫 How to reach me **diegoquinfa@gmail.com**
+- 📫 How to reach me **diegoquinfa@proton.me**
 
 - 🌱 Learning ReacJS, Express and Golang.
 
